@@ -6,8 +6,10 @@
 
 自我检测
 
-1. muscle fibers cylindrical 50 - 100 $\mu m$
-2. 
+1. muscle fibers cylindrical [ ] (50 - 100 $\mu m$)
+2. muscle fiber types [ ] (slow-twitch )and [ ] (fast-twitch fiber)
+3. 
+4. 
 
 词汇
 
@@ -23,4 +25,37 @@
 10. fasciculi 神经纤维或肌肉纤维的束状排列 [fəˈsɪkjəlaɪ]
 11. perimysium 包裹在肌束 fasciculi 周围的结缔组织层 [ˌpɛrɪˈmɪsiəm]
 12. endomysium 包裹在单个肌肉纤维（肌原纤维）周围的结缔组织层 [ˌɛndoʊˈmɪsiəm]
-13. 
+13. myosin 肌球蛋白
+14. sarcoplasmic reticulum  /ˌsɑːrkəˈplæzmɪk rɪˈtɪkjələm/ 肌浆网 或 肌质网
+15. ## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
