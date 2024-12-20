@@ -2,6 +2,7 @@
 
 重点知识
 
+1. 肌肉系统，近端远端；肌肉纤维，肌肉纤维的结构。
 1. 
 
 自我检测
@@ -27,7 +28,10 @@
 12. endomysium 包裹在单个肌肉纤维（肌原纤维）周围的结缔组织层 [ˌɛndoʊˈmɪsiəm]
 13. myosin 肌球蛋白
 14. sarcoplasmic reticulum  /ˌsɑːrkəˈplæzmɪk rɪˈtɪkjələm/ 肌浆网 或 肌质网
-15. ## 
+15. vesicles /ˈvɛsɪkəlz/ 囊泡
+16. triad /ˈtraɪ.æd/ 三联体
+17. actin /ˈæktɪn/ 肌动蛋白
+18. 
 
 
 
